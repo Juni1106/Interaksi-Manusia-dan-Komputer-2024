@@ -1,1 +1,5 @@
 # Interaksi-Manusia-dan-Komputer-2024
+
+## NAMA : Juniver Veronika Lili
+## NIM : 2209106013
+## PERANCANGAN DESAIN FOOD ORDERING APP “PIZIEEZ” BERBASIS MOBILE
